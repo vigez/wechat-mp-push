@@ -1,12 +1,12 @@
 # wechat-mp-push-worker
 
-一个跑在 **Cloudflare Workers** 上的微信公众号草稿推送服务。免服务器、免备案、长期有效，把「动态 IP 白名单」这个长期痛点彻底解决。
+一个跑在 **Cloudflare Workers** 上的微信公众号草稿推送服务API worker。免服务器、免备案、长期有效，把「动态 IP 白名单」这个长期痛点彻底解决。
 
 你只管把「标题 + 作者 + 摘要 + 正文 + 封面」POST 到 `/api/draft`，剩下的取 token、传封面、转正文图、建草稿全部自动完成。
 
 ---
-如果 wechat-mp-push 对您有所帮助，欢迎赞助项目，支持服务器运行和后续开发。
-当然，不赞助也完全不影响使用。分享项目、提交反馈或贡献代码，同样是非常宝贵的支持。
+- 如果 wechat-mp-push 对您有所帮助，欢迎赞助项目，支持服务器运行和后续开发。
+- 当然，不赞助也完全不影响使用。分享项目、提交反馈或贡献代码，同样是非常宝贵的支持。
 
 ![Project Logo](https://github.com/vigez/wechat-mp-push/blob/main/zs/zsm200x200.png?raw=true)
 
