@@ -7,6 +7,7 @@
 ---
 如果 wechat-mp-push 对您有所帮助，欢迎赞助项目，支持服务器运行和后续开发。
 当然，不赞助也完全不影响使用。分享项目、提交反馈或贡献代码，同样是非常宝贵的支持。
+
 ![Project Logo](https://github.com/vigez/wechat-mp-push/blob/main/zs/zsm200x200.png?raw=true)
 
 ---
